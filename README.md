@@ -3,7 +3,7 @@
 I'm Pavlos, a Software Engineer based in Greece.
 
 - 💻 I’m currently working on [@WeatherXM](https://weatherxm.com/) as an Android Engineer.
-- 📲 Founder of ([Crypto Hub](https://play.google.com/store/apps/details?id=com.tzegian.cryptoanalogy), an Android App for providing key insights and tools for the crypto industry.
+- 📲 Founder of [Crypto Hub](https://play.google.com/store/apps/details?id=com.tzegian.cryptoanalogy), an Android App for providing key insights and tools for the crypto industry.
 - 🌐 Founder of [Greepto](https://greepto.gr/), the top crypto-related news website in Greece.
 - 📖 I’m currently learning about iOS app development and cryptocurrencies.
 - 💘 In love with code, crypto and blockchain.
