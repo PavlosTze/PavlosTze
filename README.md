@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm Pavlos, a Software Engineer based in Greece.
+I'm Pavlos, a Software Engineer based in Greece mainly focused in Android Applications.
 
 - 💻 I’m currently working on [@WeatherXM](https://weatherxm.com/) as an Android Engineer.
 - 📲 Founder of [Crypto Hub](https://play.google.com/store/apps/details?id=com.tzegian.cryptoanalogy), an Android App for providing key insights and tools for the crypto industry.
@@ -9,6 +9,10 @@ I'm Pavlos, a Software Engineer based in Greece.
 - 💬 Ask me about **anything**. If I don't know the answer, I'll try to get it for you.
 - 📫 How to reach me: [pavlostze@gmail.com](pavlostze@gmail.com).
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PavlosTze/count.svg" />
+</p>
 
 <br/>
 <div>
