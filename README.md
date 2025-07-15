@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm Pavlos, a Software Engineer based in Greece mainly focused in Android Applications.
+I'm Pavlos, a Software Engineer based in Greece mainly focused in Mobile Applications.
 
 - 💻 I’m currently working on [@WeatherXM](https://weatherxm.com/) as an Android Engineer.
 - 📲 Founder of [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker), a mobile companion app built with Kotlin Multiplatform and Compose Multiplatform which empowers users to track and manage everything on their Bluesky network.
