@@ -9,4 +9,4 @@ I'm Pavlos, a Software Engineer based in Greece mainly focused in Mobile Applica
 - 📫 How to reach me: [pavlostze@gmail.com](pavlostze@gmail.com).
 
 <br/>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavlostze?cardType=github&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=highcontrast&preferLogin=false">    <img  alt="pavlostze's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pavlostze?cardType=github&theme=highcontrast&preferLogin=false" />  </a>
