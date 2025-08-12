@@ -8,11 +8,6 @@ I'm Pavlos, a Software Engineer based in Greece mainly focused in Mobile Applica
 - 📲 Founder of [Crypto Hub](https://play.google.com/store/apps/details?id=com.tzegian.cryptoanalogy), an Android App for providing key insights and tools for the crypto industry.
 - 📫 How to reach me: [pavlostze@gmail.com](pavlostze@gmail.com).
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PavlosTze/count.svg" />
-</p>
-
 <br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=PavlosTze&show_icons=true&theme=nord&count_private=true" />
