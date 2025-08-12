@@ -2,7 +2,7 @@
 
 I'm Pavlos, a Software Engineer based in Greece mainly focused in Mobile Applications.
 
-- 💻 I’m currently working on [@WeatherXM](https://weatherxm.com/) as an Android Engineer.
+- 💻 I’m currently working on [@WeatherXM]([https://weatherxm.com/](https://github.com/WeatherXM/wxm-android)) as an Android Engineer.
 - 📲 Founder of [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker), a mobile companion app built with Kotlin Multiplatform and Compose Multiplatform which empowers users to track and manage everything on their Bluesky network.
 - 🌐 Founder of [Greepto](https://greepto.gr/), the top crypto-related news website in Greece.
 - 📲 Founder of [Crypto Hub](https://play.google.com/store/apps/details?id=com.tzegian.cryptoanalogy), an Android App for providing key insights and tools for the crypto industry.
