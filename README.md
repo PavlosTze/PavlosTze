@@ -9,7 +9,4 @@ I'm Pavlos, a Software Engineer based in Greece mainly focused in Mobile Applica
 - 📫 How to reach me: [pavlostze@gmail.com](pavlostze@gmail.com).
 
 <br/>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=PavlosTze&show_icons=true&theme=nord&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PavlosTze&theme=nord&stroke=FFFFFF" />
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavlostze?cardType=github&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
